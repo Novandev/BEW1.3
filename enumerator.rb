@@ -1,8 +1,13 @@
 
 # ---------- This enumerator will take an array and turn its elements into an Enumerator ----------#
 
+
+# ---------- Lets require some of out installed gems ----------#
+
 require "HTTParty"
 require "json"
+
+
 
 
 sampleArray = %w(First Second Third Forth Fifth)
@@ -24,7 +29,6 @@ end
 
 
 
-
 # --------- An easier way to do this to use the method to_enum to transform an array into the Enumerable type ------------#
 
 array = [1, 2, 3]
@@ -35,6 +39,7 @@ anotherEnumerator = array.to_enum
 # ----------- Just to prove this does the exact same ----------#
 
 # puts anotherEnumerator.next
+
 
 
 
