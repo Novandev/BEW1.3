@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d5386bd2-387f-4f68-8bd5-3793765ce9aa" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/BEW1.3.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/BEW1.3.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/enumerator.rb" beforeDir="false" afterPath="$PROJECT_DIR$/enumerator.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rubypract/rubyTwitter/scraper.rb" beforeDir="false" afterPath="$PROJECT_DIR$/rubypract/rubyTwitter/scraper.rb" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -47,12 +46,12 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="Gemfile" value="1" />
-          <entry key="rb" value="2134" />
+          <entry key="rb" value="2470" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Ruby" value="2135" />
+          <entry key="Ruby" value="2471" />
         </counts>
       </usages-collector>
     </session>
@@ -94,8 +93,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/rubypract/rubyTwitter/scraper.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="195">
-              <caret line="13" column="2" selection-start-line="13" selection-start-column="2" selection-end-line="13" selection-end-column="2" />
+            <state relative-caret-position="300">
+              <caret line="20" column="2" lean-forward="true" selection-start-line="20" selection-start-column="2" selection-end-line="20" selection-end-column="2" />
             </state>
           </provider>
         </entry>
@@ -201,12 +200,12 @@
       <workItem from="1540500083452" duration="94000" />
       <workItem from="1540500207986" duration="727000" />
       <workItem from="1540530160874" duration="149000" />
-      <workItem from="1540840106910" duration="1946000" />
+      <workItem from="1540840106910" duration="4102000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9294000" />
+    <option name="totallyTimeSpent" value="11450000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="777" extended-state="0" />
@@ -280,8 +279,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/rubypract/rubyTwitter/scraper.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" column="2" selection-start-line="13" selection-start-column="2" selection-end-line="13" selection-end-column="2" />
+        <state relative-caret-position="300">
+          <caret line="20" column="2" lean-forward="true" selection-start-line="20" selection-start-column="2" selection-end-line="20" selection-end-column="2" />
         </state>
       </provider>
     </entry>
