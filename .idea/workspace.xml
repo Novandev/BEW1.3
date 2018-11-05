@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d5386bd2-387f-4f68-8bd5-3793765ce9aa" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/BEW1.3.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/BEW1.3.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/rubypract/rubyTwitter/.byebug_history" beforeDir="false" afterPath="$PROJECT_DIR$/rubypract/rubyTwitter/.byebug_history" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/rubypract/rubyTwitter/scraper.rb" beforeDir="false" afterPath="$PROJECT_DIR$/rubypract/rubyTwitter/scraper.rb" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -21,15 +17,16 @@
     <session id="-754700403">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="6" />
+          <entry key="project.closed" value="8" />
           <entry key="project.open.time.1" value="1" />
+          <entry key="project.open.time.11" value="1" />
           <entry key="project.open.time.12" value="1" />
           <entry key="project.open.time.2" value="2" />
           <entry key="project.open.time.20" value="1" />
           <entry key="project.open.time.7" value="1" />
           <entry key="project.open.time.8" value="1" />
           <entry key="project.open.time.9" value="1" />
-          <entry key="project.opened" value="8" />
+          <entry key="project.opened" value="9" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -73,7 +70,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/rubypract/rubyTwitter/01_writetofile.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-7">
+            <state relative-caret-position="75">
               <caret line="5" selection-start-line="5" selection-end-line="5" />
             </state>
           </provider>
@@ -87,7 +84,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/rubypract/rubyTwitter/Gemfile">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-7">
+            <state relative-caret-position="45">
               <caret line="3" column="5" selection-start-line="3" selection-start-column="5" selection-end-line="3" selection-end-column="11" />
             </state>
           </provider>
@@ -156,7 +153,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -185,6 +181,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -224,18 +221,19 @@
       <workItem from="1540500083452" duration="94000" />
       <workItem from="1540500207986" duration="727000" />
       <workItem from="1540530160874" duration="149000" />
-      <workItem from="1540840106910" duration="6209000" />
+      <workItem from="1540840106910" duration="6704000" />
+      <workItem from="1540932544950" duration="17000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13557000" />
+    <option name="totallyTimeSpent" value="14069000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="777" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.34087238" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.34652665" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -267,16 +265,17 @@
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/generator.rb" />
-    <entry file="file://$PROJECT_DIR$/rubypract/02_datatypes/01.rb">
+    <entry file="file://$PROJECT_DIR$/rubypract/02_datatypes/01.rb" />
+    <entry file="file://$PROJECT_DIR$/enumerator.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+        <state relative-caret-position="450">
+          <caret line="30" selection-start-line="30" selection-end-line="30" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/rubypract/rubyTwitter/01_writetofile.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-7">
+        <state relative-caret-position="75">
           <caret line="5" selection-start-line="5" selection-end-line="5" />
         </state>
       </provider>
@@ -286,13 +285,10 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/rubypract/rubyTwitter/Gemfile">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-7">
+        <state relative-caret-position="45">
           <caret line="3" column="5" selection-start-line="3" selection-start-column="5" selection-end-line="3" selection-end-column="11" />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/rubypract/rubyTwitter/.byebug_history">
-      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/rubypract/rubyClasses/class1.rb">
       <provider selected="true" editor-type-id="text-editor">
@@ -301,12 +297,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/enumerator.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="30" selection-start-line="30" selection-end-line="30" />
-        </state>
-      </provider>
+    <entry file="file://$PROJECT_DIR$/rubypract/rubyTwitter/.byebug_history">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/rubypract/rubyTwitter/scraper.rb">
       <provider selected="true" editor-type-id="text-editor">
